@@ -1,0 +1,3 @@
+Grocery shopping,High
+Chores,Medium
+Polishing car,Medium
